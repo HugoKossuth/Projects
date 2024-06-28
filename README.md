@@ -7,7 +7,7 @@ This repository showcases a collection of data science projects I've worked on. 
 
 ## Projects
 
-### Project 1: Brain Tumor Classification
+### Project 1: [Brain Tumor Classification](https://github.com/HugoKossuth/Projects/tree/main/Brain%20Tumor%20Classification)
 **Description:** This project involves building and evaluating an image classification model to detect brain tumors using deep learning techniques. The notebook explores two different pretrained models, MobileNetV2 and VGG16, to classify images into two categories: presence or absence of brain tumors. The project includes data preprocessing, model building, training, evaluation, and a comparative analysis of model performance.
 
 **Technologies Used:**
@@ -24,7 +24,7 @@ This repository showcases a collection of data science projects I've worked on. 
   * Performance Evaluation:
     * Achieved a high accuracy of 94% with MobileNetV2, outperforming VGG16 which achieved an accuracy of 81%. The lower validation loss of MobileNetV2 (0.13) compared to VGG16 (0.26) indicates better generalization to unseen data.
 
-### Project 2: Credit Risk Analysis
+### Project 2: [Credit Risk Analysis](https://github.com/HugoKossuth/Projects/tree/main/Credit%20Risk%20Analysis)
 **Description:** This project involves a comprehensive analysis of credit risk using various machine learning models. The goal is to predict the likelihood of loan default based on borrower characteristics and loan attributes. The notebook includes data preprocessing, model implementation, training, evaluation, and comparative analysis of multiple classifiers.
 
 **Technologies Used:** 
@@ -45,7 +45,7 @@ This repository showcases a collection of data science projects I've worked on. 
   * Performance Evaluation and Model Selection:
     * Conducted a thorough evaluation of each model's performance using accuracy scores and classification reports. This enabled the identification of the most effective model for credit risk prediction.
 
-### Project 3: Restaurant Revenue Prediction
+### Project 3: [Restaurant Revenue Prediction](https://github.com/HugoKossuth/Projects/tree/main/Restaurant%20Revenue%20Prediction)
 **Description:** This project aim is to predict the revenue of various restaurants based on several attributes. The dataset includes features such as location, cuisine type, ratings, seating capacity, marketing budget, and more. The notebook applies various machine learning techniques and data analysis to achieve accurate revenue predictions and daa insights.
 
 **Technologies Used:** 
@@ -66,7 +66,7 @@ This repository showcases a collection of data science projects I've worked on. 
   * Performance Evaluation and Model Selection:
     * Conducted a thorough evaluation of each model's performance using accuracy scores and visualized the predicted values comapred with the actual values. This enabled the identification of the most effective model for revenue prediction.
 
-### Project 4: Stock Market Analysis
+### Project 4: [Stock Market Analysis](https://github.com/HugoKossuth/Projects/tree/main/Stock%20Market%20Analysis)
 **Description:** This notebook focuses on analyzing and visualizing stock market data by matplotlib to understand price trends and make predictions. Using data from the Alpha Vantage API, it includes steps for data fetching, preprocessing, visualization, and implementing predictive models.
 
 **Technologies Used:** 
